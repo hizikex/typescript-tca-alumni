@@ -29,5 +29,5 @@ const user3: User = {
 
 function formatUser(user: User) {
     console.log(`Name: ${user.name} Score: ${user.score}`);
-    
+
 }
